@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning ... web developer
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... well... on Instagram = don.sebaas;   //I don't recommend it!
-                                ||   Email = sebasrosales763@gmail.com;   //Personally, I preffer this one.
-                                ||   LinkedIn = www.linkedin.com/in/albino-sebastián-rosales-ruano-6458722aa;   //I know, that link is so big.
+  Email = sebasrosales763@gmail.com;   //Personally, I preffer this one.
+  LinkedIn = www.linkedin.com/in/albino-sebastián-rosales-ruano-6458722aa;   //I know, that link is so big.
 - 😄 Pronouns: ... piz/zas
 - ⚡ Fun fact: ...
 
